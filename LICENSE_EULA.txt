@@ -1,0 +1,6 @@
+FlashSeek: Grid Combat
+Copyright (c) 2026 FlashSeek. All rights reserved.
+
+This software is distributed solely in compiled binary form for personal entertainment. 
+You may not decompile, disassemble, reverse engineer, modify, or redistribute the software 
+binary files without explicit written permission from the copyright holder.
