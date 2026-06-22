@@ -2,7 +2,7 @@
 
 ![Platform Support](https://img.shields.io/badge/platforms-Windows%20%7C%20macOS%20%7C%20Linux-blue?style=flat-square)
 ![Engine](https://img.shields.io/badge/engine-Godot%204.5-orange?style=flat-square)
-![Status](https://img.shields.io/badge/status-Pre--Release%20Alpha-red?style=flat-square)
+![Status](https://img.shields.io/badge/status-Alpha-red?style=flat-square)
 
 Welcome to **FlashSeek: Grid Combat**, a high-octane 3D arcade brawler developed under the FlashSeek brand. Take control, manage your positioning on the grid, and neutralize waves of rogue security units before they breach your parameters.
 
