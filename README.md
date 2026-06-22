@@ -15,6 +15,48 @@ Welcome to **FlashSeek: Grid Combat**, a high-octane 3D arcade brawler developed
 
 ---
 
+## System Requirements
+
+### Windows
+* **Minimum:**
+  * **OS:** Windows 10 (64-bit, version 1809 or higher for D3D12 support)
+  * **Processor:** Dual-Core Intel Core i3 / AMD Ryzen 3 @ 2.5 GHz
+  * **Memory:** At least **350 MB free RAM** available
+  * **Graphics:** Intel HD Graphics 620 / AMD Radeon Vega 3 or better (Direct3D 12 or OpenGL 3.3 support) with at least **200 MB free VRAM** available
+  * **Storage:** At least **200 MB free storage space** available
+
+* **Recommended:**
+  * **OS:** Windows 10 / 11 (64-bit)
+  * **Processor:** Quad-Core Intel Core i5 / AMD Ryzen 5 or better
+  * **Memory:** At least **512 MB free RAM** available
+  * **Graphics:** NVIDIA GTX 1050 / AMD RX 560 or better (Vulkan 1.0 / Direct3D 12 native support) with at least **512 MB free VRAM** available
+  * **Storage:** At least **200 MB free storage space** available
+
+### macOS
+* **Minimum:**
+  * **OS:** macOS 10.12 (Sierra) for Intel Macs / macOS 11.0 (Big Sur) for Apple Silicon
+  * **Processor:** Dual-Core Intel Core i5 (2015 or later) / Apple Silicon M1
+  * **Memory:** At least **350 MB free RAM** available
+  * **Graphics:** Intel Iris Graphics / Apple M1 Integrated GPU (OpenGL 3.3 / Metal) with at least **200 MB free VRAM** available
+  * **Storage:** At least **200 MB free storage space** available
+
+* **Recommended:**
+  * **OS:** macOS 11.0 (Big Sur) or newer
+  * **Processor:** Quad-Core Intel Core i7 / Apple Silicon M1 or better
+  * **Memory:** At least **512 MB free RAM** available
+  * **Graphics:** Intel Iris Plus / AMD Radeon Pro or Apple M1 GPU with at least **512 MB free VRAM** available
+  * **Storage:** At least **200 MB free storage space** available
+
+### Linux
+* **Minimum:**
+  * **OS:** Ubuntu 22.04 LTS / Fedora / Arch Linux (64-bit)
+  * **Processor:** Dual-Core Intel/AMD @ 2.5 GHz
+  * **Memory:** At least **350 MB free RAM** available
+  * **Graphics:** Mesa Intel HD Graphics / AMD Radeon drivers (OpenGL 3.3 Core Profile or Vulkan 1.0 support) with at least **200 MB free VRAM** available
+  * **Storage:** At least **200 MB free storage space** available
+ 
+---
+
 ## Installation
 
 Download the appropriate `.zip` file for your platform from the **[Releases](../../releases)** tab.
